@@ -1,0 +1,101 @@
+body{
+	background-color: #F0F0F0;
+}
+*{margin: 2px; padding: 2px; box-sizing: border-box; font-size: 2px; }
+nav a{
+  text-decoration: underline;
+  color: #E80000;
+  font-size: 14px;
+}
+nav li{
+  text-align: justify;
+  display: inline-block;
+  width: 10%;
+  padding: 15px 15px;
+  background-color: lightgray;
+  border: 1px solid #000;
+  color: #fff;
+}
+nav li :hover{
+background-color: #fff;
+color: #000;
+}
+h1 {
+  color: #E80000;
+  font-family: !important;
+  font-size: 50px;
+  text-align: center;
+}
+p{
+  font-family: revert-layer;
+  font-size: 25px;
+  font-style: oblique;
+  text-decoration-color: darkred;
+  }
+h2 {
+  color: #E80000;
+  font-family: !important;
+  font-size: 50px;
+  text-align: center;
+}
+p2{
+  font-family: revert-layer;
+  font-size: 25px;
+  font-style: oblique;
+  text-decoration-color: darkred;
+  }
+h3 {
+  color: #E80000;
+  font-family: !important;
+  font-size: 50px;
+  text-align: center;
+}
+p3{
+  font-family: revert-layer;
+  font-size: 25px;
+  font-style: oblique;
+  text-decoration-color: darkred;
+  }
+h4 {
+  color: #E80000;
+  font-family: !important;
+  font-size: 50px;
+  text-align: center;
+}
+p4{
+  font-family: revert-layer;
+  font-size: 25px;
+  font-style: oblique;
+  text-decoration-color: darkred;
+  }
+h5 {
+  color: #E80000;
+  font-family: !important;
+  font-size: 50px;
+  text-align: center;
+}
+p5{
+  font-family: revert-layer;
+  font-size: 25px;
+  font-style: oblique;
+  text-decoration-color: darkred;
+  }
+h6 {
+  color: #E80000;
+  font-family: !important;
+  font-size: 50px;
+  text-align: center;
+}
+p6{
+  font-family: revert-layer;
+  font-size: 25px;
+  font-style: oblique;
+  text-decoration-color: darkred;
+  }
+h7 {
+  color: crimson;
+  font-family: !important;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline
+}
